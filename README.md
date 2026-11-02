@@ -16,7 +16,7 @@ The project combines image preprocessing, exploratory statistical analysis, deep
 
 ## Dataset
 
-The project uses the [MNIST database of handwritten digits](http://yann.lecun.com/exdb/mnist/).
+The project uses the [MNIST database of handwritten digits](https://www.tensorflow.org/datasets/catalog/mnist).
 
 | Property | Description |
 |---|---|
@@ -83,8 +83,8 @@ The revised model was evaluated on the separate official MNIST test partition co
 
 | Metric | Result |
 |---|---:|
-| Training accuracy | ~99.5% |
-| Best validation accuracy | ~98.1% |
+| Training accuracy | 99.5% |
+| Best validation accuracy | 97.1% |
 | **Test accuracy** | **98.18%** |
 | Correct test predictions | 9,818 |
 | Incorrect test predictions | 182 |
