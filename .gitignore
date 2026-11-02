@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Model artifacts (generated when the notebook is run)
+*.h5
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
